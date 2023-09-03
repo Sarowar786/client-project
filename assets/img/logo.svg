@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="207" height="39" viewBox="0 0 207 39">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 423.333px;
+        fill: #030909;
+        font-family: Algerian;
+      }
+    </style>
+  </defs>
+  <image id="Background" width="207" height="39" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM8AAAAnCAYAAAColhywAAAAhUlEQVR4nO3TQREAIAzAsIF/z0MDfScSetezuzvAtysZNOaByDwQmQci80BkHojMA5F5IDIPROaByDwQmQci80BkHojMA5F5IDIPROaByDwQmQci80BkHojMA5F5IDIPROaByDwQmQci80BkHojMA5F5IDIPROaByDwQmQci80BkHihm5gEDOwRK+VPq9QAAAABJRU5ErkJggg=="/>
+  <text id="Sarowar" class="cls-1" transform="matrix(0.099, 0, 0, 0.099, 0.773, 36.163)">Sarowar</text>
+</svg>
